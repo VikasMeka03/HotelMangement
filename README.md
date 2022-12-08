@@ -29,7 +29,7 @@ How to run the program :-
                              
 
 
-*For the next cutomer who checks in the immediate checked out room will be alloted.
+*For the next cutomer who checks in, the immediate checked out room will be alloted.
 ![hm_3](https://user-images.githubusercontent.com/119169280/206503764-42232468-0c36-41e2-b5f0-affdd97f6d96.png)
                        
                     
