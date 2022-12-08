@@ -128,7 +128,7 @@ class hotel
 
       }
    }
-
+	
    void rooms_data()
    {
       cout<<"ROOM TYPE\tCOST\tROOMS AVAILABLE"<<endl;
@@ -139,7 +139,6 @@ class hotel
       cout<<endl;
    }
     
-
    void Hotel_managing()
    {
       
@@ -280,7 +279,6 @@ class hotel
 int main()
 { 
 
-   
   cout<<endl;
 	cout<<"\t\t\t\t\t\t---------"<<endl;
 	cout<<"\t\t\t\t\t\tHOTEL CPP"<<endl;
