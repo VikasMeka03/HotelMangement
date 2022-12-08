@@ -50,11 +50,12 @@ How to run the program :-
                             
                                   
 *You can stop the program through 'EXIT' option.                    
-                           
+                                                                            
                            
 UML:-                   
-                
-                ![htl_uml](https://user-images.githubusercontent.com/119169280/206508764-08f3f634-0eef-46c5-8074-12834473c670.png)
-
+                  
+![htl_uml](https://user-images.githubusercontent.com/119169280/206509135-5a8168b5-3c3d-44bd-93c8-49d87f7a8d95.png)
+                  
+                   
                                                                                         
                 
