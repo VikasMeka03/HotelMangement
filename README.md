@@ -55,7 +55,31 @@ How to run the program :-
 UML:-                   
                   
 ![htl_uml](https://user-images.githubusercontent.com/119169280/206509135-5a8168b5-3c3d-44bd-93c8-49d87f7a8d95.png)
+ 
+ CODE DETAILS :              
+                    
+*We have declared 4 arrays each contain the room numbers of rooms in each floor.           
+                         
+*Another 4 arrays are declared with ‘1’s initially, implying that every room is ready for allotment.              
+              
+*When a room is allotted, 1 is replaced with 0 so that when the next customer asks for the room, same room is not allotted.                
+               
+*Some string, int arrays were declared to store the data of the customers.              
+                   
+*The for loop from i=1 takes the necessary information of the customer and stores in the respective arrays with ‘i’ as index.              
                   
+*The  ‘customer info’ option calls the cust_info function ,prints the data of the customer when his/her name is entered. It finds the index of the name entered and prints the corresponding data from the string arrays with the index.             
+          
+*When a room is allotted, its count will be decremented. So that when the count becomes 0, rooms are unavailable and some message will be displayed.                      
+               
+*The ‘Available rooms’ option calls the rooms_data function, prints the all types of rooms and their prices which are initially declared and number of rooms available with count array.                       
+                   
+*When the customer checks out entering his/her room number, then the ‘0’ in the count array is again replaced with ‘1’ , so that the room can be allotted to next customer.                    
+                       
+*We used time.h header file to record the checkin and check out time of customers.           
+                  
+*When the user enters the exit option the for loop breaks and the program stops.           
+
                    
                                                                                         
                 
